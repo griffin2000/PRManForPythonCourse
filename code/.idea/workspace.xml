@@ -19,7 +19,7 @@
     <favorites_list name="code" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="frames.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/frames.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -40,11 +40,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="polygon.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="polygon.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/polygon.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
               <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cube.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cube.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="47">
+              <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -69,6 +79,7 @@
         <option value="$PROJECT_DIR$/translation.py" />
         <option value="$PROJECT_DIR$/simple.py" />
         <option value="$PROJECT_DIR$/polygon.py" />
+        <option value="$PROJECT_DIR$/cube.py" />
       </list>
     </option>
   </component>
@@ -103,8 +114,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -125,7 +134,173 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Python.cube">
+    <configuration default="false" name="cube" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="code" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cube.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="code" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="code" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="code" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="code" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="code" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="code" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="code" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Python.cube" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python.cube" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -144,23 +319,23 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973656" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25266525" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3997833" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -175,8 +350,594 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/cube.py</url>
+          <line>22</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="__builtins__" />
+        <watch expression="__doc__" />
+        <watch expression="__file__" />
+        <watch expression="__loader__" />
+        <watch expression="__name__" />
+        <watch expression="__package__" />
+        <watch expression="__spec__" />
+        <watch expression="indices" />
+        <watch expression="normal" />
+        <watch expression="nverts" />
+        <watch expression="position" />
+        <watch expression="prman" />
+        <watch expression="ri" />
+        <watch expression="ri.A" />
+        <watch expression="ri.ABORT" />
+        <watch expression="ri.ADD" />
+        <watch expression="ri.ADDCOVERAGE" />
+        <watch expression="ri.AI" />
+        <watch expression="ri.ALGORITHM" />
+        <watch expression="ri.AMBIENTLIGHT" />
+        <watch expression="ri.AMPLITUDE" />
+        <watch expression="ri.APERTURE" />
+        <watch expression="ri.ARCHIVE" />
+        <watch expression="ri.ATMOSPHERES" />
+        <watch expression="ri.ATRIBUTECOMBINING" />
+        <watch expression="ri.AUTOBIAS" />
+        <watch expression="ri.AZ" />
+        <watch expression="ri.AZI" />
+        <watch expression="ri.BACKFACETOLERANCE" />
+        <watch expression="ri.BACKFACING" />
+        <watch expression="ri.BACKGROUND" />
+        <watch expression="ri.BAKE" />
+        <watch expression="ri.BEAMDISTRIBUTION" />
+        <watch expression="ri.BESSEL" />
+        <watch expression="ri.BEZIER" />
+        <watch expression="ri.BEZIERSTEP" />
+        <watch expression="ri.BIAS" />
+        <watch expression="ri.BIAS0" />
+        <watch expression="ri.BIAS1" />
+        <watch expression="ri.BICUBIC" />
+        <watch expression="ri.BILINEAR" />
+        <watch expression="ri.BINARY" />
+        <watch expression="ri.BINARYFORCE" />
+        <watch expression="ri.BLACK" />
+        <watch expression="ri.BLACKMANHARRIS" />
+        <watch expression="ri.BLP" />
+        <watch expression="ri.BOUND" />
+        <watch expression="ri.BOUND0" />
+        <watch expression="ri.BOUND1" />
+        <watch expression="ri.BOX" />
+        <watch expression="ri.BRICKMEMORY" />
+        <watch expression="ri.BSPLINE" />
+        <watch expression="ri.BSPLINESTEP" />
+        <watch expression="ri.BSplineBasis" />
+        <watch expression="ri.BUCKET" />
+        <watch expression="ri.BUCKETSIZE" />
+        <watch expression="ri.BUCKETSTRIDE" />
+        <watch expression="ri.BUMPY" />
+        <watch expression="ri.BesselFilter" />
+        <watch expression="ri.BezierBasis" />
+        <watch expression="ri.BlackmanHarrisFilter" />
+        <watch expression="ri.BoxFilter" />
+        <watch expression="ri.CACHEDIFFUSECOLORS" />
+        <watch expression="ri.CACHEMODE" />
+        <watch expression="ri.CAMERA" />
+        <watch expression="ri.CAMERAHITMODE" />
+        <watch expression="ri.CATMARK" />
+        <watch expression="ri.CATMULLROMSTEP" />
+        <watch expression="ri.CATROM" />
+        <watch expression="ri.CENTERED" />
+        <watch expression="ri.CENTERFILTER" />
+        <watch expression="ri.CHANLIST" />
+        <watch expression="ri.CHECKNANS" />
+        <watch expression="ri.CI" />
+        <watch expression="ri.CLAMP" />
+        <watch expression="ri.CLAMPCOLOR" />
+        <watch expression="ri.CLAMPED" />
+        <watch expression="ri.CLAMPINGENABLE" />
+        <watch expression="ri.CLAMPMOTION" />
+        <watch expression="ri.CLAMPWIDTH" />
+        <watch expression="ri.CLEARLOCALS" />
+        <watch expression="ri.CLIPPING" />
+        <watch expression="ri.CLIPPINGPLANE" />
+        <watch expression="ri.COLOR" />
+        <watch expression="ri.COLORCLAMP" />
+        <watch expression="ri.COMBINED" />
+        <watch expression="ri.COMMENT" />
+        <watch expression="ri.COMPRESSION" />
+        <watch expression="ri.COMPRESSIONQ" />
+        <watch expression="ri.CONDABORT" />
+        <watch expression="ri.CONEANGLE" />
+        <watch expression="ri.CONEDELTAANGLE" />
+        <watch expression="ri.CONSTANT" />
+        <watch expression="ri.CONSTANTWIDTH" />
+        <watch expression="ri.CONTINUATIONBYDEFAULT" />
+        <watch expression="ri.COORDINATESYSTEM" />
+        <watch expression="ri.CORNER" />
+        <watch expression="ri.CPUTIME" />
+        <watch expression="ri.CREASE" />
+        <watch expression="ri.CROPWINDOW" />
+        <watch expression="ri.CS" />
+        <watch expression="ri.CUBIC" />
+        <watch expression="ri.CULL" />
+        <watch expression="ri.CURRENT" />
+        <watch expression="ri.CatmullRomBasis" />
+        <watch expression="ri.CatmullRomFilter" />
+        <watch expression="ri.DEBUG" />
+        <watch expression="ri.DECIMATIONRATE" />
+        <watch expression="ri.DEEPSHADOWERROR" />
+        <watch expression="ri.DEEPSHADOWMEMORY" />
+        <watch expression="ri.DEEPSHADOWSIMPLIFYERROR" />
+        <watch expression="ri.DEEPSHADOWTILES" />
+        <watch expression="ri.DEFCACHE" />
+        <watch expression="ri.DEFINITION" />
+        <watch expression="ri.DELETELIGHTS" />
+        <watch expression="ri.DEPTHBIAS" />
+        <watch expression="ri.DEPTHCUE" />
+        <watch expression="ri.DEPTHFILTER" />
+        <watch expression="ri.DEPTHMODE" />
+        <watch expression="ri.DEPTHOFFIELD" />
+        <watch expression="ri.DERIVATIVES" />
+        <watch expression="ri.DETAIL" />
+        <watch expression="ri.DETAILRANGE" />
+        <watch expression="ri.DFAMODE" />
+        <watch expression="ri.DICE" />
+        <watch expression="ri.DICEMETHOD" />
+        <watch expression="ri.DIFFERENCE" />
+        <watch expression="ri.DIFFUSE" />
+        <watch expression="ri.DIFFUSEHITMODE" />
+        <watch expression="ri.DISABLE" />
+        <watch expression="ri.DISABLELIGHTS" />
+        <watch expression="ri.DISK" />
+        <watch expression="ri.DISPLACEMENT" />
+        <watch expression="ri.DISPLACEMENTBOUND" />
+        <watch expression="ri.DISPLACEMENTS" />
+        <watch expression="ri.DISPLACE_RATIOS" />
+        <watch expression="ri.DISPLAY" />
+        <watch expression="ri.DISPLAYEXPOSURE" />
+        <watch expression="ri.DISPLAYONLYEDITLIGHTS" />
+        <watch expression="ri.DISPLAYOPACITYCHAN" />
+        <watch expression="ri.DISPLAYQUANTIZE" />
+        <watch expression="ri.DISTANCE" />
+        <watch expression="ri.DISTANTLIGHT" />
+        <watch expression="ri.DITHER" />
+        <watch expression="ri.DOF" />
+        <watch expression="ri.DOFASPECT" />
+        <watch expression="ri.DOUBLECOMP" />
+        <watch expression="ri.DOUBLESHADED" />
+        <watch expression="ri.DPDTIME" />
+        <watch expression="ri.DPDU" />
+        <watch expression="ri.DPDV" />
+        <watch expression="ri.DSOBound" />
+        <watch expression="ri.DSOFILE" />
+        <watch expression="ri.DSOFLOAT" />
+        <watch expression="ri.DSONAME" />
+        <watch expression="ri.DSOPARAM" />
+        <watch expression="ri.DSOSTRING" />
+        <watch expression="ri.DYNAMIC" />
+        <watch expression="ri.DiskFilter" />
+        <watch expression="ri.EDGEEDIT" />
+        <watch expression="ri.EDITLIGHTS" />
+        <watch expression="ri.EMISSIONBIAS" />
+        <watch expression="ri.EMISSIONPOINTCLOUD" />
+        <watch expression="ri.EMIT" />
+        <watch expression="ri.EMPTY" />
+        <watch expression="ri.ENABLE" />
+        <watch expression="ri.ENABLEGAUSSIAN" />
+        <watch expression="ri.ENABLELERP" />
+        <watch expression="ri.ENABLELIGHTS" />
+        <watch expression="ri.ENDOFFRAME" />
+        <watch expression="ri.EPSILON" />
+        <watch expression="ri.EPSILON1" />
+        <watch expression="ri.EPSILON2" />
+        <watch expression="ri.EXCLUSIVE" />
+        <watch expression="ri.EXITAT" />
+        <watch expression="ri.EXPOSURE" />
+        <watch expression="ri.EXTRAPOLATE" />
+        <watch expression="ri.EXTREMEDISPLACEMENT" />
+        <watch expression="ri.EXTREMEMOTIONDOF" />
+        <watch expression="ri.EYESPLITS" />
+        <watch expression="ri.ErrorAbort" />
+        <watch expression="ri.ErrorCleanup" />
+        <watch expression="ri.ErrorCondAbort" />
+        <watch expression="ri.ErrorIgnore" />
+        <watch expression="ri.ErrorPrint" />
+        <watch expression="ri.ErrorPrintOnce" />
+        <watch expression="ri.FACEEDIT" />
+        <watch expression="ri.FACEINDEX" />
+        <watch expression="ri.FACEVARYINGINTERPBOUNDARY" />
+        <watch expression="ri.FALLOFFPOWER" />
+        <watch expression="ri.FALSE" />
+        <watch expression="ri.FILE" />
+        <watch expression="ri.FILEMODE" />
+        <watch expression="ri.FILENAME" />
+        <watch expression="ri.FILTER" />
+        <watch expression="ri.FILTERING" />
+        <watch expression="ri.FILTERWIDTH" />
+        <watch expression="ri.FINISHRENDERING" />
+        <watch expression="ri.FLATNESS" />
+        <watch expression="ri.FOCUSFACTOR" />
+        <watch expression="ri.FOCUSREGION" />
+        <watch expression="ri.FOG" />
+        <watch expression="ri.FORCEDSAMPLING" />
+        <watch expression="ri.FORMATPIXELASPECTRATIO" />
+        <watch expression="ri.FORMATRESOLUTION" />
+        <watch expression="ri.FOV" />
+        <watch expression="ri.FRAME" />
+        <watch expression="ri.FRAMEASPECTRATIO" />
+        <watch expression="ri.FRAMEBUFFER" />
+        <watch expression="ri.FRAMECAMERA" />
+        <watch expression="ri.FREQUENCYFRAMETIME" />
+        <watch expression="ri.FROM" />
+        <watch expression="ri.FRUSTUM" />
+        <watch expression="ri.GAUSSIAN" />
+        <watch expression="ri.GEOCACHEMEMORY" />
+        <watch expression="ri.GEOMETRICAPPROXIMATIONFLATNESS" />
+        <watch expression="ri.GEOMETRICAPPROXIMATIONFOCUSFACTOR" />
+        <watch expression="ri.GEOMETRICAPPROXIMATIONMOTIONFACTOR" />
+        <watch expression="ri.GPRIMLOG" />
+        <watch expression="ri.GPRIMSPLITS" />
+        <watch expression="ri.GRIDAREA" />
+        <watch expression="ri.GRIDCACHESIZE" />
+        <watch expression="ri.GRIDMEMORY" />
+        <watch expression="ri.GRIDS" />
+        <watch expression="ri.GRIDSIZE" />
+        <watch expression="ri.GROUPING" />
+        <watch expression="ri.GRP_MEMBERSHIP" />
+        <watch expression="ri.GRP_TRACESUBSET" />
+        <watch expression="ri.GaussianFilter" />
+        <watch expression="ri.HAIR" />
+        <watch expression="ri.HANDLE" />
+        <watch expression="ri.HANDLEID" />
+        <watch expression="ri.HANDLER" />
+        <watch expression="ri.HEMISPHERESAMPLEMEMORY" />
+        <watch expression="ri.HERMITE" />
+        <watch expression="ri.HERMITESTEP" />
+        <watch expression="ri.HIDDEN" />
+        <watch expression="ri.HOLE" />
+        <watch expression="ri.HermiteBasis" />
+        <watch expression="ri.I" />
+        <watch expression="ri.ID" />
+        <watch expression="ri.IDENTIFIER" />
+        <watch expression="ri.IGNORE" />
+        <watch expression="ri.ILLUMINATEHANDLE" />
+        <watch expression="ri.IMMEDIATESUBDIVIDE" />
+        <watch expression="ri.IMPORTANCETHRESHOLD" />
+        <watch expression="ri.INDEXOFREFRACTION" />
+        <watch expression="ri.INFINITY" />
+        <watch expression="ri.INSIDE" />
+        <watch expression="ri.INTENSITY" />
+        <watch expression="ri.INTERLEAVE" />
+        <watch expression="ri.INTERPBOUNDARY" />
+        <watch expression="ri.INTERPRETATION" />
+        <watch expression="ri.INTERSECTION" />
+        <watch expression="ri.INTERSECTPRIORITY" />
+        <watch expression="ri.INTERVAL" />
+        <watch expression="ri.JITTER" />
+        <watch expression="ri.KA" />
+        <watch expression="ri.KD" />
+        <watch expression="ri.KEEPFILES" />
+        <watch expression="ri.KR" />
+        <watch expression="ri.KS" />
+        <watch expression="ri.LAGRANGIAN" />
+        <watch expression="ri.LANCZOS" />
+        <watch expression="ri.LEVELSET" />
+        <watch expression="ri.LH" />
+        <watch expression="ri.LIGHT" />
+        <watch expression="ri.LIGHTCOLOR" />
+        <watch expression="ri.LIGHTING" />
+        <watch expression="ri.LIMITS" />
+        <watch expression="ri.LINEAR" />
+        <watch expression="ri.LODRANGE" />
+        <watch expression="ri.LOOP" />
+        <watch expression="ri.LPEGROUP" />
+        <watch expression="ri.LanczosFilter" />
+        <watch expression="ri.MARCH" />
+        <watch expression="ri.MATRIXCACHEMEMORY" />
+        <watch expression="ri.MATTE" />
+        <watch expression="ri.MATTEFILE" />
+        <watch expression="ri.MAXANGLE" />
+        <watch expression="ri.MAXDEPTH" />
+        <watch expression="ri.MAXDIFFUSEDEPTH" />
+        <watch expression="ri.MAXDISTANCE" />
+        <watch expression="ri.MAXERROR" />
+        <watch expression="ri.MAXHAIRLENGTH" />
+        <watch expression="ri.MAXHAIRVOLUME" />
+        <watch expression="ri.MAXPATHLENGTH" />
+        <watch expression="ri.MAXPIXELDIST" />
+        <watch expression="ri.MAXRAYDEPTH" />
+        <watch expression="ri.MAXSPECULARDEPTH" />
+        <watch expression="ri.MAXVPDEPTH" />
+        <watch expression="ri.MERGE" />
+        <watch expression="ri.METAL" />
+        <watch expression="ri.MIDPOINT" />
+        <watch expression="ri.MINDISTANCE" />
+        <watch expression="ri.MINMAX" />
+        <watch expression="ri.MINWIDTH" />
+        <watch expression="ri.MITCHELL" />
+        <watch expression="ri.MODE" />
+        <watch expression="ri.MOTIONFACTOR" />
+        <watch expression="ri.MPCACHE" />
+        <watch expression="ri.MPCACHEDIR" />
+        <watch expression="ri.MPCACHESTRIDE" />
+        <watch expression="ri.MPMEMORY" />
+        <watch expression="ri.MULTIGRIDS" />
+        <watch expression="ri.MitchellFilter" />
+        <watch expression="ri.N" />
+        <watch expression="ri.NAME" />
+        <watch expression="ri.NDC" />
+        <watch expression="ri.NEARHITHER" />
+        <watch expression="ri.NEWER" />
+        <watch expression="ri.NEWGROUP" />
+        <watch expression="ri.NG" />
+        <watch expression="ri.NONPERIODIC" />
+        <watch expression="ri.NONUNIFORM" />
+        <watch expression="ri.NP" />
+        <watch expression="ri.NURBCURVATUREDICEFACTOR" />
+        <watch expression="ri.OBJECT" />
+        <watch expression="ri.OBJECTCACHE" />
+        <watch expression="ri.OCCLUSIONBOUND" />
+        <watch expression="ri.OCTREEMEMORY" />
+        <watch expression="ri.OFFSET" />
+        <watch expression="ri.OI" />
+        <watch expression="ri.OLDMOTIONFACTOR" />
+        <watch expression="ri.OPACITY" />
+        <watch expression="ri.OPACITYCACHEMEMORY" />
+        <watch expression="ri.OPACITYMETHOD" />
+        <watch expression="ri.OPACITYMULTIPLIER" />
+        <watch expression="ri.OPAQUE" />
+        <watch expression="ri.ORDER" />
+        <watch expression="ri.ORDERORIGIN" />
+        <watch expression="ri.ORIENTATION" />
+        <watch expression="ri.ORIGIN" />
+        <watch expression="ri.ORTHOGRAPHIC" />
+        <watch expression="ri.OS" />
+        <watch expression="ri.OTHRESHOLD" />
+        <watch expression="ri.OUTPUTALLDECLARES" />
+        <watch expression="ri.OUTSIDE" />
+        <watch expression="ri.P" />
+        <watch expression="ri.PAINT" />
+        <watch expression="ri.PAINTEDPLASTIC" />
+        <watch expression="ri.PATTERN" />
+        <watch expression="ri.PDISC" />
+        <watch expression="ri.PERIODIC" />
+        <watch expression="ri.PERSISTENT" />
+        <watch expression="ri.PERSPECTIVE" />
+        <watch expression="ri.PIXELFILTERNAME" />
+        <watch expression="ri.PIXELFILTERWIDTH" />
+        <watch expression="ri.PIXELSAMPLES" />
+        <watch expression="ri.PIXELVARIANCE" />
+        <watch expression="ri.PLANARPROJECTION" />
+        <watch expression="ri.PLASTIC" />
+        <watch expression="ri.POINTFALLOFFPOWER" />
+        <watch expression="ri.POINTLIGHT" />
+        <watch expression="ri.POINTMEMORY" />
+        <watch expression="ri.POWER" />
+        <watch expression="ri.POWERSTEP" />
+        <watch expression="ri.PREBIAS" />
+        <watch expression="ri.PRECISION" />
+        <watch expression="ri.PRESERVECV" />
+        <watch expression="ri.PRIMITIVE" />
+        <watch expression="ri.PRINT" />
+        <watch expression="ri.PRINTONCE" />
+        <watch expression="ri.PRMAN_VERSION" />
+        <watch expression="ri.PRMAN_VERSION_STR" />
+        <watch expression="ri.PROCEDURAL" />
+        <watch expression="ri.PROJECTIONFOV" />
+        <watch expression="ri.PROJECTIONNAME" />
+        <watch expression="ri.PT" />
+        <watch expression="ri.PTEXTUREMAXFILES" />
+        <watch expression="ri.PTEXTUREMEMORY" />
+        <watch expression="ri.PVN" />
+        <watch expression="ri.PW" />
+        <watch expression="ri.PYRAMID" />
+        <watch expression="ri.PYRAMIDENABLE" />
+        <watch expression="ri.PZ" />
+        <watch expression="ri.PowerBasis" />
+        <watch expression="ri.Proc2DelayedReadArchive" />
+        <watch expression="ri.Proc2DynamicLoad" />
+        <watch expression="ri.ProcDelayedReadArchive" />
+        <watch expression="ri.ProcDynamicLoad" />
+        <watch expression="ri.ProcRunProgram" />
+        <watch expression="ri.QUANTIZEDITHER" />
+        <watch expression="ri.QUANTIZERANGE" />
+        <watch expression="ri.QUANTIZETYPE" />
+        <watch expression="ri.R" />
+        <watch expression="ri.RADIOSITYCACHEMEMORY" />
+        <watch expression="ri.RADIOSITYCACHEOMITMINUSONE" />
+        <watch expression="ri.RADIUS" />
+        <watch expression="ri.RASTER" />
+        <watch expression="ri.RASTERORIENT" />
+        <watch expression="ri.RAYDEPTH" />
+        <watch expression="ri.RAYTRACE" />
+        <watch expression="ri.RAY_KAYJIYA" />
+        <watch expression="ri.RAY_LIST" />
+        <watch expression="ri.RAY_TREE" />
+        <watch expression="ri.REFLECTEXCLUDESUBSET" />
+        <watch expression="ri.REFLECTION" />
+        <watch expression="ri.REFLECTSUBSET" />
+        <watch expression="ri.REFWARNING" />
+        <watch expression="ri.RELATIVEDETAIL" />
+        <watch expression="ri.RELATIVEPIXELVARIANCE" />
+        <watch expression="ri.RELATIVESHADINGRATE" />
+        <watch expression="ri.RELIGHTING" />
+        <watch expression="ri.REMAP" />
+        <watch expression="ri.RENDER" />
+        <watch expression="ri.RENDERMEMORY" />
+        <watch expression="ri.RENDERNULL" />
+        <watch expression="ri.RENDERTIME" />
+        <watch expression="ri.REPELFILE" />
+        <watch expression="ri.REPELPARAMS" />
+        <watch expression="ri.RERENDERBAKEDBDIR" />
+        <watch expression="ri.RESETRELATIVESHADINGRATE" />
+        <watch expression="ri.RESIZE" />
+        <watch expression="ri.RESOLUTION" />
+        <watch expression="ri.RESOLUTIONUNIT" />
+        <watch expression="ri.RESOURCE" />
+        <watch expression="ri.REVERSEORIENTATION" />
+        <watch expression="ri.REVERSESIGN" />
+        <watch expression="ri.RGB" />
+        <watch expression="ri.RGBA" />
+        <watch expression="ri.RGBAI" />
+        <watch expression="ri.RGBAZ" />
+        <watch expression="ri.RGBAZI" />
+        <watch expression="ri.RGBI" />
+        <watch expression="ri.RGBZ" />
+        <watch expression="ri.RGBZI" />
+        <watch expression="ri.RH" />
+        <watch expression="ri.RIB" />
+        <watch expression="ri.RIBPARSE" />
+        <watch expression="ri.RIFCONTROL" />
+        <watch expression="ri.RIXPLUGIN" />
+        <watch expression="ri.ROUGHNESS" />
+        <watch expression="ri.ROWSPERSTRIP" />
+        <watch expression="ri.RUNFLAGS" />
+        <watch expression="ri.S" />
+        <watch expression="ri.SAMPLEMOTION" />
+        <watch expression="ri.SAVEDATTRIBUTES" />
+        <watch expression="ri.SAVESHADERSTATE" />
+        <watch expression="ri.SCOPEDCOORDINATESYSTEM" />
+        <watch expression="ri.SCOPENAMES" />
+        <watch expression="ri.SCREEN" />
+        <watch expression="ri.SCREENWINDOW" />
+        <watch expression="ri.SEARCHPATH" />
+        <watch expression="ri.SENSE" />
+        <watch expression="ri.SEPARATE" />
+        <watch expression="ri.SEPCATROM" />
+        <watch expression="ri.SHADE" />
+        <watch expression="ri.SHADEGROUPS" />
+        <watch expression="ri.SHADEGROUPSIZEFACTOR" />
+        <watch expression="ri.SHADEQUEUESIZEFACTOR" />
+        <watch expression="ri.SHADER" />
+        <watch expression="ri.SHADERINSTANCEID" />
+        <watch expression="ri.SHADERPROFILE" />
+        <watch expression="ri.SHADESIZE" />
+        <watch expression="ri.SHADEWCACHE" />
+        <watch expression="ri.SHADING" />
+        <watch expression="ri.SHADINGGROUP" />
+        <watch expression="ri.SHADINGINTERPOLATION" />
+        <watch expression="ri.SHADINGRATE" />
+        <watch expression="ri.SHADOW" />
+        <watch expression="ri.SHADOWEXCLUDESUBSET" />
+        <watch expression="ri.SHADOWSUBSET" />
+        <watch expression="ri.SHINYMETAL" />
+        <watch expression="ri.SHUTTER" />
+        <watch expression="ri.SHUTTEROPENING" />
+        <watch expression="ri.SIDES" />
+        <watch expression="ri.SIGMA" />
+        <watch expression="ri.SIGMABLUR" />
+        <watch expression="ri.SINC" />
+        <watch expression="ri.SMOOTH" />
+        <watch expression="ri.SMOOTHTRIANGLES" />
+        <watch expression="ri.SOURCE" />
+        <watch expression="ri.SPATIALGROUPING" />
+        <watch expression="ri.SPECULAR" />
+        <watch expression="ri.SPECULARCOLOR" />
+        <watch expression="ri.SPECULARHITMODE" />
+        <watch expression="ri.SPECULARTHRESHOLD" />
+        <watch expression="ri.SPHERE" />
+        <watch expression="ri.SPHERICALPROJECTION" />
+        <watch expression="ri.SPLITMODE" />
+        <watch expression="ri.SPOTLIGHT" />
+        <watch expression="ri.SRGB" />
+        <watch expression="ri.ST" />
+        <watch expression="ri.STANDARD" />
+        <watch expression="ri.STATISTICS" />
+        <watch expression="ri.STITCH" />
+        <watch expression="ri.STOCHASTIC" />
+        <watch expression="ri.STRATEGY" />
+        <watch expression="ri.STREAMMARKER" />
+        <watch expression="ri.STRUCTURE" />
+        <watch expression="ri.STYLESHEET" />
+        <watch expression="ri.SUBOCCLUSION" />
+        <watch expression="ri.SUBPIXEL" />
+        <watch expression="ri.SUBWINDOW" />
+        <watch expression="ri.SUSPENDRENDERING" />
+        <watch expression="ri.SeparableCatmullRomFilter" />
+        <watch expression="ri.SimpleBound" />
+        <watch expression="ri.SincFilter" />
+        <watch expression="ri.T" />
+        <watch expression="ri.TEXTURE" />
+        <watch expression="ri.TEXTURECOORDINATES" />
+        <watch expression="ri.TEXTUREMEMORY" />
+        <watch expression="ri.TEXTURENAME" />
+        <watch expression="ri.THREADS" />
+        <watch expression="ri.THRESHOLD" />
+        <watch expression="ri.TIMER" />
+        <watch expression="ri.TO" />
+        <watch expression="ri.TRACE" />
+        <watch expression="ri.TRACEENABLE" />
+        <watch expression="ri.TRACEMINWIDTH" />
+        <watch expression="ri.TRANSFORM" />
+        <watch expression="ri.TRANSIENT" />
+        <watch expression="ri.TRANSMISSION" />
+        <watch expression="ri.TRANSMISSIONHITMODE" />
+        <watch expression="ri.TRANSMITEXCLUDESUBSET" />
+        <watch expression="ri.TRANSMITSUBSET" />
+        <watch expression="ri.TRANSPARENT" />
+        <watch expression="ri.TRIANGLE" />
+        <watch expression="ri.TRIM" />
+        <watch expression="ri.TRIMCURVE" />
+        <watch expression="ri.TRIMDEVIATION" />
+        <watch expression="ri.TRUE" />
+        <watch expression="ri.TriangleFilter" />
+        <watch expression="ri.U" />
+        <watch expression="ri.UBASISNAME" />
+        <watch expression="ri.UNIFORM_TRIMRANGE" />
+        <watch expression="ri.UNION" />
+        <watch expression="ri.UNKNOWN" />
+        <watch expression="ri.USER" />
+        <watch expression="ri.UVW" />
+        <watch expression="ri.V" />
+        <watch expression="ri.VARSUBST" />
+        <watch expression="ri.VBASISNAME" />
+        <watch expression="ri.VDMAG" />
+        <watch expression="ri.VERBATIM" />
+        <watch expression="ri.VERTEXEDIT" />
+        <watch expression="ri.VIEWFRUSTUMDISTANCE" />
+        <watch expression="ri.VISIBILITY" />
+        <watch expression="ri.VISIBLEPOINTS" />
+        <watch expression="ri.VOLUME" />
+        <watch expression="ri.VOLUMEBOX" />
+        <watch expression="ri.VOLUMECONE" />
+        <watch expression="ri.VOLUMECYLINDER" />
+        <watch expression="ri.VOLUMEELLIPSOID" />
+        <watch expression="ri.VOLUMEINTERPRETATION" />
+        <watch expression="ri.VOLUMEPIXELSAMPLES" />
+        <watch expression="ri.VPDEPTH" />
+        <watch expression="ri.VPDEPTHSHADINGRATE" />
+        <watch expression="ri.VPICOLOR" />
+        <watch expression="ri.VPIDEPTH" />
+        <watch expression="ri.VPIMAGE" />
+        <watch expression="ri.VPINTERIORHEURISTIC" />
+        <watch expression="ri.VPIOBJECTID" />
+        <watch expression="ri.VPRELATIVESHADINGRATE" />
+        <watch expression="ri.VPVOLUMEINTERSECTIONS" />
+        <watch expression="ri.VPVOLUMES" />
+        <watch expression="ri.W" />
+        <watch expression="ri.WIDTH" />
+        <watch expression="ri.WIDTHMINSEGMENTS" />
+        <watch expression="ri.WORLD" />
+        <watch expression="ri.WORLDCAMERA" />
+        <watch expression="ri.WORLDDISTANCE" />
+        <watch expression="ri.WRITETODISK" />
+        <watch expression="ri.XMLFILENAME" />
+        <watch expression="ri.YSPLITS" />
+        <watch expression="ri.Z" />
+        <watch expression="ri.ZBLUR" />
+        <watch expression="ri.ZCOMPRESSION" />
+        <watch expression="ri.ZFILE" />
+        <watch expression="ri.ZI" />
+        <watch expression="ri.ZLERP" />
+        <watch expression="ri.ZTHRESHOLD" />
+        <watch expression="texCoordS" />
+        <watch expression="texCoordT" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/frames.py">
@@ -195,6 +956,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/polygon.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/simple.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -203,10 +972,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/frames.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="29" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/simple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/translation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="29" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/polygon.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cube.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="47">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
           <folding />
         </state>
       </provider>
